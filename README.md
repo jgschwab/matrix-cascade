@@ -5,14 +5,14 @@ A customizable cascade animation of katakana characters, just like in the Matrix
 + arg 1: The width (in regular characters) of the animation
 + arg 2: The height (in regular characters) of the animation
 + arg 3: The color to display the animation. Legend below:
-    1 = red
-    2 = green
-    3 = yellow
-    4 = blue
-    5 = magenta
-    6 = cyan
-    7 = light grey (often the same as default)
-    9 = default (usually light grey/white)
+    + 1 = red
+    + 2 = green
+    + 3 = yellow
+    + 4 = blue
+    + 5 = magenta
+    + 6 = cyan
+    + 7 = light grey (often the same as default)
+    + 9 = default (usually light grey/white)
 
 + arg 4: The frequency of new "lines" cascading.
     + More specifically, this is the probability, as a percentage, for each column, that a new line will start at the top of the screen
